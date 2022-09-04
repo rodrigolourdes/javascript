@@ -8,11 +8,12 @@
     <style>
         body {
             background-color: aqua;
-            color: brown;
+            color: rgb(58, 58, 58);
             font-family: Arial, Helvetica, sans-serif;
         }
         h1 {
-            color: blue;
+            color: rgb(255, 0, 0);
+            text-align: center;
         }
     </style>
 </head>
@@ -23,7 +24,9 @@
     <script>
         //window.alert('Minha primeira mensagem')
         //window.confirm('Está gostando de JavaScript')
-        window.prompt('Qual é seu nome')
+       var nome = window.prompt('Qual é seu nome?') //Vai perguntar o nome
+       window.alert("É um grande prazer te conhecer, " + nome, "!") // concatenação
+       
     </script>
 </body>
 </html>
