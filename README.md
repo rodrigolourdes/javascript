@@ -1,2 +1,3 @@
-# javascript
- Curso de JavaScript do Curso em Vídeo
+﻿# Curso de JavaScript - Curso em Vídeo - Professor Gustavo Guanabara
+Curso de JavaScript do Curso em Vídeo com patrocínio e avál do Google  
+Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser aprender mais sobre ECMAScript, a versão padronizada do JS. Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o conteúdo básico em 6 módulos que vão desde o conhecimento da linguagem até o uso de funções.
